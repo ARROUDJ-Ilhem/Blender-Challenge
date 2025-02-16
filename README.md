@@ -1,6 +1,6 @@
 # Blender-Challenge
 
-lender Challenge
+Blender Challenge
 
 Welcome to the Blender Challenge! This challenge consists of two exciting 3D projects designed to enhance your Blender skills in modeling, texturing, lighting, and animation. Whether you're a beginner or an advanced user, these challenges will push your creativity and technical abilities.
 
